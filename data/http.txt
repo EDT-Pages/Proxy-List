@@ -1,0 +1,48 @@
+http://103.148.192.189:3128#ID Jakarta AS139995 PT. Akashia Thuba Jaya
+http://103.148.62.1:8080#IN Mumbai AS137127 Navkar Supertech Pvt Ltd
+http://103.156.75.213:8091#ID Negara AS141082 PT Trika Media Teknologi
+http://103.160.205.208:8097#ID Selong AS141595 PT Akbar Prima Media
+http://103.35.188.243:3128#US Secaucus AS209847 WorkTitans B.V.
+http://103.69.106.154:8181#ID Jakarta AS147087 PT Berkat Dunia Digital Cikande
+http://108.137.1.116:9440#T1 San Jose AS396507 Emerald Onion
+http://115.114.77.133:9090#IN Chennai AS9498 BHARTI INFOTEL LTD.
+http://115.127.176.210:2589#BD Dhaka AS45766 Triangle-Client
+http://120.92.212.16:8890#CN Tianjin AS4837 21ViaNet(China),Inc.
+http://123.200.23.121:4126#BD Dhaka AS23688 Link3-Technologies-Ltd
+http://128.199.114.189:9090#SG Singapore AS14061 DigitalOcean, LLC
+http://157.15.186.71:8080#ID Situbondo AS150208 PT. APLIKASI ENTERTAINMENT INDONESIA
+http://157.175.170.170:799#T1 San Jose AS396507 Emerald Onion
+http://157.66.51.177:1111#ID Cikampek AS152438 PT BARAYA TELEKOMUNIKASI INDONESIA
+http://160.187.174.170:8080#ID Medan AS153135 PT Netindo Persada Nusantara
+http://160.22.221.15:8080#ID Adiwerna AS153145 PT Tomihonk Network Nusantara
+http://181.78.194.249:999#EC Guayaquil AS52468 NEGOCIOS Y TELEFONIA NEDETEL S.A.
+http://181.78.202.28:8080#EC Guayaquil AS52468 TRAJES EL GALAN
+http://185.191.236.162:3128#CH Lugano AS264617 Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez
+http://187.102.219.64:999#AR Puerto Eldorado AS270004 CRETTON LISANDRO MAXIMILIANO (MISIOTECH)
+http://187.251.224.167:8081#MX León de los Aldama AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://190.242.157.215:8080#CO Popayán AS269804 SEPCOM COMUNICACIONES SAS
+http://194.58.34.63:3128#LV Riga AS26383 Baxet Group Inc.
+http://195.87.182.10:9090#TR Van AS15924 Vodafone Net Iletisim Hizmetler AS
+http://200.59.186.177:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://200.59.186.178:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://200.59.191.233:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://200.59.191.234:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://202.154.18.11:9091#ID Mojokerto AS136121 PT Digital Media Telematika
+http://202.191.127.9:1121#BD Dhaka AS24556 Corporate Shared User
+http://202.5.57.15:11726#BD Rangpur AS45326 BBTS New Block
+http://202.58.77.170:8081#ID Blitar AS138886 PT Data Buana Nusantara
+http://209.38.51.97:3128#US Clifton AS14061 DigitalOcean, LLC
+http://211.230.49.122:3128#KR Seoul AS4766 Korea Telecom
+http://213.131.85.30:1976#EG Cairo AS24863 Link Egypt
+http://3.38.101.138:8447#T1 San Jose AS396507 Emerald Onion
+http://40.192.100.189:7976#T1 San Jose AS396507 Emerald Onion
+http://40.192.16.115:297#T1 San Jose AS396507 Emerald Onion
+http://43.198.99.209:8097#US San Jose AS396507 Emerald Onion
+http://43.208.16.199:57113#T1 Stockholm AS198093 Foreningen for digitala fri- och rattigheter
+http://43.209.8.12:4947#T1 San Jose AS396507 Emerald Onion
+http://45.144.232.249:52770#NL Dronten AS41745 Baykov Ilya Sergeevich
+http://47.86.53.59:8080#HK Hong Kong AS45102 ALIBABA CLOUD - HK
+http://59.6.25.118:3128#KR Seoul AS4766 Korea Telecom
+http://78.153.155.31:1081#US Atlanta AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP
+http://89.208.85.169:18080#RU Moscow AS47764 VK Cloud Solutions
+http://89.208.85.78:443#RU Moscow AS47764 VK Cloud Solutions

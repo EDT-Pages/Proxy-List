@@ -1,0 +1,482 @@
+[
+  {
+    "proxy": "http://194.58.34.63:3128",
+    "protocol": "http",
+    "ip": "194.58.34.63",
+    "port": 3128,
+    "country": "LV",
+    "city": "Riga",
+    "asn": "26383",
+    "asOrganization": "Baxet Group Inc."
+  },
+  {
+    "proxy": "http://59.6.25.118:3128",
+    "protocol": "http",
+    "ip": "59.6.25.118",
+    "port": 3128,
+    "country": "KR",
+    "city": "Seoul",
+    "asn": "4766",
+    "asOrganization": "Korea Telecom"
+  },
+  {
+    "proxy": "http://43.209.8.12:4947",
+    "protocol": "http",
+    "ip": "43.209.8.12",
+    "port": 4947,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://200.59.186.178:999",
+    "protocol": "http",
+    "ip": "200.59.186.178",
+    "port": 999,
+    "country": "VE",
+    "city": "Mene Grande",
+    "asn": "264778",
+    "asOrganization": "TotalCom Venezuela C.A."
+  },
+  {
+    "proxy": "http://202.5.57.15:11726",
+    "protocol": "http",
+    "ip": "202.5.57.15",
+    "port": 11726,
+    "country": "BD",
+    "city": "Rangpur",
+    "asn": "45326",
+    "asOrganization": "BBTS New Block"
+  },
+  {
+    "proxy": "http://115.114.77.133:9090",
+    "protocol": "http",
+    "ip": "115.114.77.133",
+    "port": 9090,
+    "country": "IN",
+    "city": "Chennai",
+    "asn": "9498",
+    "asOrganization": "BHARTI INFOTEL LTD."
+  },
+  {
+    "proxy": "http://103.148.62.1:8080",
+    "protocol": "http",
+    "ip": "103.148.62.1",
+    "port": 8080,
+    "country": "IN",
+    "city": "Mumbai",
+    "asn": "137127",
+    "asOrganization": "Navkar Supertech Pvt Ltd"
+  },
+  {
+    "proxy": "http://120.92.212.16:8890",
+    "protocol": "http",
+    "ip": "120.92.212.16",
+    "port": 8890,
+    "country": "CN",
+    "city": "Tianjin",
+    "asn": "4837",
+    "asOrganization": "21ViaNet(China),Inc."
+  },
+  {
+    "proxy": "http://103.148.192.189:3128",
+    "protocol": "http",
+    "ip": "103.148.192.189",
+    "port": 3128,
+    "country": "ID",
+    "city": "Jakarta",
+    "asn": "139995",
+    "asOrganization": "PT. Akashia Thuba Jaya"
+  },
+  {
+    "proxy": "http://157.15.186.71:8080",
+    "protocol": "http",
+    "ip": "157.15.186.71",
+    "port": 8080,
+    "country": "ID",
+    "city": "Situbondo",
+    "asn": "150208",
+    "asOrganization": "PT. APLIKASI ENTERTAINMENT INDONESIA"
+  },
+  {
+    "proxy": "http://200.59.191.233:999",
+    "protocol": "http",
+    "ip": "200.59.191.233",
+    "port": 999,
+    "country": "VE",
+    "city": "Mene Grande",
+    "asn": "264778",
+    "asOrganization": "TotalCom Venezuela C.A."
+  },
+  {
+    "proxy": "http://160.22.221.15:8080",
+    "protocol": "http",
+    "ip": "160.22.221.15",
+    "port": 8080,
+    "country": "ID",
+    "city": "Adiwerna",
+    "asn": "153145",
+    "asOrganization": "PT Tomihonk Network Nusantara"
+  },
+  {
+    "proxy": "http://190.242.157.215:8080",
+    "protocol": "http",
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "city": "Popayán",
+    "asn": "269804",
+    "asOrganization": "SEPCOM COMUNICACIONES SAS"
+  },
+  {
+    "proxy": "http://202.58.77.170:8081",
+    "protocol": "http",
+    "ip": "202.58.77.170",
+    "port": 8081,
+    "country": "ID",
+    "city": "Blitar",
+    "asn": "138886",
+    "asOrganization": "PT Data Buana Nusantara"
+  },
+  {
+    "proxy": "http://40.192.100.189:7976",
+    "protocol": "http",
+    "ip": "40.192.100.189",
+    "port": 7976,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://43.198.99.209:8097",
+    "protocol": "http",
+    "ip": "43.198.99.209",
+    "port": 8097,
+    "country": "US",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://187.102.219.64:999",
+    "protocol": "http",
+    "ip": "187.102.219.64",
+    "port": 999,
+    "country": "AR",
+    "city": "Puerto Eldorado",
+    "asn": "270004",
+    "asOrganization": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)"
+  },
+  {
+    "proxy": "http://202.154.18.11:9091",
+    "protocol": "http",
+    "ip": "202.154.18.11",
+    "port": 9091,
+    "country": "ID",
+    "city": "Mojokerto",
+    "asn": "136121",
+    "asOrganization": "PT Digital Media Telematika"
+  },
+  {
+    "proxy": "http://200.59.191.234:999",
+    "protocol": "http",
+    "ip": "200.59.191.234",
+    "port": 999,
+    "country": "VE",
+    "city": "Mene Grande",
+    "asn": "264778",
+    "asOrganization": "TotalCom Venezuela C.A."
+  },
+  {
+    "proxy": "http://157.175.170.170:799",
+    "protocol": "http",
+    "ip": "157.175.170.170",
+    "port": 799,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://43.208.16.199:57113",
+    "protocol": "http",
+    "ip": "43.208.16.199",
+    "port": 57113,
+    "country": "T1",
+    "city": "Stockholm",
+    "asn": "198093",
+    "asOrganization": "Foreningen for digitala fri- och rattigheter"
+  },
+  {
+    "proxy": "http://202.191.127.9:1121",
+    "protocol": "http",
+    "ip": "202.191.127.9",
+    "port": 1121,
+    "country": "BD",
+    "city": "Dhaka",
+    "asn": "24556",
+    "asOrganization": "Corporate Shared User"
+  },
+  {
+    "proxy": "http://89.208.85.78:443",
+    "protocol": "http",
+    "ip": "89.208.85.78",
+    "port": 443,
+    "country": "RU",
+    "city": "Moscow",
+    "asn": "47764",
+    "asOrganization": "VK Cloud Solutions"
+  },
+  {
+    "proxy": "http://185.191.236.162:3128",
+    "protocol": "http",
+    "ip": "185.191.236.162",
+    "port": 3128,
+    "country": "CH",
+    "city": "Lugano",
+    "asn": "264617",
+    "asOrganization": "Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez"
+  },
+  {
+    "proxy": "http://187.251.224.167:8081",
+    "protocol": "http",
+    "ip": "187.251.224.167",
+    "port": 8081,
+    "country": "MX",
+    "city": "León de los Aldama",
+    "asn": "22884",
+    "asOrganization": "TOTAL PLAY TELECOMUNICACIONES SA DE CV"
+  },
+  {
+    "proxy": "http://200.59.186.177:999",
+    "protocol": "http",
+    "ip": "200.59.186.177",
+    "port": 999,
+    "country": "VE",
+    "city": "Mene Grande",
+    "asn": "264778",
+    "asOrganization": "TotalCom Venezuela C.A."
+  },
+  {
+    "proxy": "http://128.199.114.189:9090",
+    "protocol": "http",
+    "ip": "128.199.114.189",
+    "port": 9090,
+    "country": "SG",
+    "city": "Singapore",
+    "asn": "14061",
+    "asOrganization": "DigitalOcean, LLC"
+  },
+  {
+    "proxy": "http://108.137.1.116:9440",
+    "protocol": "http",
+    "ip": "108.137.1.116",
+    "port": 9440,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://195.87.182.10:9090",
+    "protocol": "http",
+    "ip": "195.87.182.10",
+    "port": 9090,
+    "country": "TR",
+    "city": "Van",
+    "asn": "15924",
+    "asOrganization": "Vodafone Net Iletisim Hizmetler AS"
+  },
+  {
+    "proxy": "http://103.156.75.213:8091",
+    "protocol": "http",
+    "ip": "103.156.75.213",
+    "port": 8091,
+    "country": "ID",
+    "city": "Negara",
+    "asn": "141082",
+    "asOrganization": "PT Trika Media Teknologi"
+  },
+  {
+    "proxy": "http://103.69.106.154:8181",
+    "protocol": "http",
+    "ip": "103.69.106.154",
+    "port": 8181,
+    "country": "ID",
+    "city": "Jakarta",
+    "asn": "147087",
+    "asOrganization": "PT Berkat Dunia Digital Cikande"
+  },
+  {
+    "proxy": "http://213.131.85.30:1976",
+    "protocol": "http",
+    "ip": "213.131.85.30",
+    "port": 1976,
+    "country": "EG",
+    "city": "Cairo",
+    "asn": "24863",
+    "asOrganization": "Link Egypt"
+  },
+  {
+    "proxy": "http://157.66.51.177:1111",
+    "protocol": "http",
+    "ip": "157.66.51.177",
+    "port": 1111,
+    "country": "ID",
+    "city": "Cikampek",
+    "asn": "152438",
+    "asOrganization": "PT BARAYA TELEKOMUNIKASI INDONESIA"
+  },
+  {
+    "proxy": "http://47.86.53.59:8080",
+    "protocol": "http",
+    "ip": "47.86.53.59",
+    "port": 8080,
+    "country": "HK",
+    "city": "Hong Kong",
+    "asn": "45102",
+    "asOrganization": "ALIBABA CLOUD - HK"
+  },
+  {
+    "proxy": "http://3.38.101.138:8447",
+    "protocol": "http",
+    "ip": "3.38.101.138",
+    "port": 8447,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://103.35.188.243:3128",
+    "protocol": "http",
+    "ip": "103.35.188.243",
+    "port": 3128,
+    "country": "US",
+    "city": "Secaucus",
+    "asn": "209847",
+    "asOrganization": "WorkTitans B.V."
+  },
+  {
+    "proxy": "http://89.208.85.169:18080",
+    "protocol": "http",
+    "ip": "89.208.85.169",
+    "port": 18080,
+    "country": "RU",
+    "city": "Moscow",
+    "asn": "47764",
+    "asOrganization": "VK Cloud Solutions"
+  },
+  {
+    "proxy": "http://40.192.16.115:297",
+    "protocol": "http",
+    "ip": "40.192.16.115",
+    "port": 297,
+    "country": "T1",
+    "city": "San Jose",
+    "asn": "396507",
+    "asOrganization": "Emerald Onion"
+  },
+  {
+    "proxy": "http://181.78.194.249:999",
+    "protocol": "http",
+    "ip": "181.78.194.249",
+    "port": 999,
+    "country": "EC",
+    "city": "Guayaquil",
+    "asn": "52468",
+    "asOrganization": "NEGOCIOS Y TELEFONIA NEDETEL S.A."
+  },
+  {
+    "proxy": "http://211.230.49.122:3128",
+    "protocol": "http",
+    "ip": "211.230.49.122",
+    "port": 3128,
+    "country": "KR",
+    "city": "Seoul",
+    "asn": "4766",
+    "asOrganization": "Korea Telecom"
+  },
+  {
+    "proxy": "http://115.127.176.210:2589",
+    "protocol": "http",
+    "ip": "115.127.176.210",
+    "port": 2589,
+    "country": "BD",
+    "city": "Dhaka",
+    "asn": "45766",
+    "asOrganization": "Triangle-Client"
+  },
+  {
+    "proxy": "http://123.200.23.121:4126",
+    "protocol": "http",
+    "ip": "123.200.23.121",
+    "port": 4126,
+    "country": "BD",
+    "city": "Dhaka",
+    "asn": "23688",
+    "asOrganization": "Link3-Technologies-Ltd"
+  },
+  {
+    "proxy": "http://181.78.202.28:8080",
+    "protocol": "http",
+    "ip": "181.78.202.28",
+    "port": 8080,
+    "country": "EC",
+    "city": "Guayaquil",
+    "asn": "52468",
+    "asOrganization": "TRAJES EL GALAN"
+  },
+  {
+    "proxy": "http://160.187.174.170:8080",
+    "protocol": "http",
+    "ip": "160.187.174.170",
+    "port": 8080,
+    "country": "ID",
+    "city": "Medan",
+    "asn": "153135",
+    "asOrganization": "PT Netindo Persada Nusantara"
+  },
+  {
+    "proxy": "http://45.144.232.249:52770",
+    "protocol": "http",
+    "ip": "45.144.232.249",
+    "port": 52770,
+    "country": "NL",
+    "city": "Dronten",
+    "asn": "41745",
+    "asOrganization": "Baykov Ilya Sergeevich"
+  },
+  {
+    "proxy": "http://103.160.205.208:8097",
+    "protocol": "http",
+    "ip": "103.160.205.208",
+    "port": 8097,
+    "country": "ID",
+    "city": "Selong",
+    "asn": "141595",
+    "asOrganization": "PT Akbar Prima Media"
+  },
+  {
+    "proxy": "http://78.153.155.31:1081",
+    "protocol": "http",
+    "ip": "78.153.155.31",
+    "port": 1081,
+    "country": "US",
+    "city": "Atlanta",
+    "asn": "215540",
+    "asOrganization": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "proxy": "http://209.38.51.97:3128",
+    "protocol": "http",
+    "ip": "209.38.51.97",
+    "port": 3128,
+    "country": "US",
+    "city": "Clifton",
+    "asn": "14061",
+    "asOrganization": "DigitalOcean, LLC"
+  }
+]
