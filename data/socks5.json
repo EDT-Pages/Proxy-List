@@ -1,15 +1,5 @@
 [
   {
-    "proxy": "socks5://193.233.254.8:1080",
-    "protocol": "socks5",
-    "ip": "193.233.254.8",
-    "port": 1080,
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "asn": "213887",
-    "asOrganization": "WAIcore Ltd"
-  },
-  {
     "proxy": "socks5://154.219.113.169:50161",
     "protocol": "socks5",
     "ip": "154.219.113.169",
@@ -18,86 +8,6 @@
     "city": "Hong Kong",
     "asn": "401701",
     "asOrganization": "Vapeline Technology"
-  },
-  {
-    "proxy": "socks5://62.60.131.204:7799",
-    "protocol": "socks5",
-    "ip": "62.60.131.204",
-    "port": 7799,
-    "country": "FR",
-    "city": "Paris",
-    "asn": "16276",
-    "asOrganization": "OVH SAS"
-  },
-  {
-    "proxy": "socks5://62.60.131.185:4039",
-    "protocol": "socks5",
-    "ip": "62.60.131.185",
-    "port": 4039,
-    "country": "VN",
-    "city": "Hanoi",
-    "asn": "135905",
-    "asOrganization": "UNICA ACADEMY JOINT STOCK COMPANY"
-  },
-  {
-    "proxy": "socks5://103.85.227.238:9999",
-    "protocol": "socks5",
-    "ip": "103.85.227.238",
-    "port": 9999,
-    "country": "US",
-    "city": "Los Angeles",
-    "asn": "8796",
-    "asOrganization": "Vapeline Technology"
-  },
-  {
-    "proxy": "socks5://98.142.253.50:1080",
-    "protocol": "socks5",
-    "ip": "98.142.253.50",
-    "port": 1080,
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "asn": "13335",
-    "asOrganization": "Cloudflare, Inc."
-  },
-  {
-    "proxy": "socks5://185.87.121.35:8975",
-    "protocol": "socks5",
-    "ip": "185.87.121.35",
-    "port": 8975,
-    "country": "TR",
-    "city": "Bursa",
-    "asn": "29262",
-    "asOrganization": "NETUCE BILISIM TIC. LTD. STI"
-  },
-  {
-    "proxy": "socks5://5.255.113.177:1080",
-    "protocol": "socks5",
-    "ip": "5.255.113.177",
-    "port": 1080,
-    "country": "NL",
-    "city": "Dronten",
-    "asn": "60404",
-    "asOrganization": "The Infrastructure Group B.V."
-  },
-  {
-    "proxy": "socks5://193.221.203.121:1080",
-    "protocol": "socks5",
-    "ip": "193.221.203.121",
-    "port": 1080,
-    "country": "FI",
-    "city": "Helsinki",
-    "asn": "41745",
-    "asOrganization": "Baykov Ilya Sergeevich"
-  },
-  {
-    "proxy": "socks5://89.251.26.111:5555",
-    "protocol": "socks5",
-    "ip": "89.251.26.111",
-    "port": 5555,
-    "country": "HK",
-    "city": "Tsuen Wan",
-    "asn": "215355",
-    "asOrganization": "Alice Networks Ltd"
   },
   {
     "proxy": "socks5://38.60.214.125:4444",
@@ -110,69 +20,129 @@
     "asOrganization": "Kaopu Cloud HK Limited"
   },
   {
-    "proxy": "socks5://37.18.73.60:5566",
+    "proxy": "socks5://217.76.39.4:1080",
     "protocol": "socks5",
-    "ip": "37.18.73.60",
-    "port": 5566,
-    "country": "T1",
-    "city": "San Jose",
-    "asn": "396507",
-    "asOrganization": "Emerald Onion"
+    "ip": "217.76.39.4",
+    "port": 1080,
+    "country": "RU",
+    "city": "Chekhov",
+    "asn": "16143",
+    "asOrganization": "OOO NIIR-RadioNet"
   },
   {
-    "proxy": "socks5://43.153.205.77:555",
+    "proxy": "socks5://62.60.131.253:4133",
     "protocol": "socks5",
-    "ip": "43.153.205.77",
-    "port": 555,
-    "country": "SG",
-    "city": "Singapore",
-    "asn": "132203",
-    "asOrganization": "16 COLLYER QUAY # 18-29 INCOME AT RAFFLES"
+    "ip": "62.60.131.253",
+    "port": 4133,
+    "country": "IN",
+    "city": "Mumbai",
+    "asn": "16276",
+    "asOrganization": "OVHTECH R&D (INDIA) PRIVATE LIMITED"
   },
   {
-    "proxy": "socks5://66.154.117.177:50161",
+    "proxy": "socks5://62.60.131.205:4004",
     "protocol": "socks5",
-    "ip": "66.154.117.177",
-    "port": 50161,
+    "ip": "62.60.131.205",
+    "port": 4004,
     "country": "US",
-    "city": "St. Louis",
-    "asn": "7393",
-    "asOrganization": "Unknown"
+    "city": "Los Angeles",
+    "asn": "36352",
+    "asOrganization": "HostPapa"
   },
   {
-    "proxy": "socks5://213.35.110.67:10810",
+    "proxy": "socks5://77.73.233.88:1080",
+    "protocol": "socks5",
+    "ip": "77.73.233.88",
+    "port": 1080,
+    "country": "LV",
+    "city": "Riga",
+    "asn": "9002",
+    "asOrganization": "Beget LLC"
+  },
+  {
+    "proxy": "socks5://51.144.185.92:1080",
+    "protocol": "socks5",
+    "ip": "51.144.185.92",
+    "port": 1080,
+    "country": "NL",
+    "city": "Amsterdam",
+    "asn": "8075",
+    "asOrganization": "Microsoft Limited"
+  },
+  {
+    "proxy": "socks5://5.255.113.177:1080",
+    "protocol": "socks5",
+    "ip": "5.255.113.177",
+    "port": 1080,
+    "country": "NL",
+    "city": "Dronten",
+    "asn": "60404",
+    "asOrganization": "The Infrastructure Group B.V."
+  },
+  {
+    "proxy": "socks5://98.142.253.50:1080",
+    "protocol": "socks5",
+    "ip": "98.142.253.50",
+    "port": 1080,
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "asn": "13335",
+    "asOrganization": "Cloudflare, Inc."
+  },
+  {
+    "proxy": "socks5://203.189.135.73:1080",
+    "protocol": "socks5",
+    "ip": "203.189.135.73",
+    "port": 1080,
+    "country": "KH",
+    "city": "Phnom Penh",
+    "asn": "23673",
+    "asOrganization": "Cogetel Ltd, Online ISP, Cambodia"
+  },
+  {
+    "proxy": "socks5://93.183.78.82:1080",
+    "protocol": "socks5",
+    "ip": "93.183.78.82",
+    "port": 1080,
+    "country": "KZ",
+    "city": "Almaty",
+    "asn": "9123",
+    "asOrganization": "lease for Timeweb"
+  },
+  {
+    "proxy": "socks5://124.248.168.187:1080",
+    "protocol": "socks5",
+    "ip": "124.248.168.187",
+    "port": 1080,
+    "country": "KH",
+    "city": "Phnom Penh",
+    "asn": "23673",
+    "asOrganization": "Cogetel Ltd, Online ISP, Cambodia"
+  },
+  {
+    "proxy": "socks5://202.72.232.121:1080",
+    "protocol": "socks5",
+    "ip": "202.72.232.121",
+    "port": 1080,
+    "country": "BD",
+    "city": "Dhaka",
+    "asn": "38210",
+    "asOrganization": "Ranks Telecom Ltd."
+  },
+  {
+    "proxy": "socks5://147.45.124.194:1080",
+    "protocol": "socks5",
+    "ip": "147.45.124.194",
+    "port": 1080,
+    "country": "US",
+    "city": "Fremont",
+    "asn": "400992",
+    "asOrganization": "Huize Holdings LLC"
+  },
+  {
+    "proxy": "socks5://213.35.110.67:10846",
     "protocol": "socks5",
     "ip": "213.35.110.67",
-    "port": 10810,
-    "country": "SG",
-    "city": "Kampong Loyang",
-    "asn": "31898",
-    "asOrganization": "Oracle Corporation"
-  },
-  {
-    "proxy": "socks5://62.60.131.204:7996",
-    "protocol": "socks5",
-    "ip": "62.60.131.204",
-    "port": 7996,
-    "country": "FR",
-    "city": "Paris",
-    "asn": "16276",
-    "asOrganization": "OVH SAS"
-  },
-  {
-    "proxy": "socks5://155.248.182.7:1080",
-    "protocol": "socks5",
-    "ip": "155.248.182.7",
-    "port": 1080,
-    "country": "JP",
-    "city": "Inzai",
-    "asn": "31898",
-    "asOrganization": "Oracle Public Cloud"
-  },
-  {
-    "proxy": "socks5://146.235.19.84:10846",
-    "protocol": "socks5",
-    "ip": "146.235.19.84",
     "port": 10846,
     "country": "SG",
     "city": "Kampong Loyang",
@@ -180,23 +150,53 @@
     "asOrganization": "Oracle Corporation"
   },
   {
-    "proxy": "socks5://152.70.87.253:520",
+    "proxy": "socks5://213.35.110.67:10814",
     "protocol": "socks5",
-    "ip": "152.70.87.253",
-    "port": 520,
-    "country": "JP",
-    "city": "Osaka",
+    "ip": "213.35.110.67",
+    "port": 10814,
+    "country": "SG",
+    "city": "Kampong Loyang",
     "asn": "31898",
     "asOrganization": "Oracle Corporation"
   },
   {
-    "proxy": "socks5://193.233.254.9:1080",
+    "proxy": "socks5://43.131.9.114:1777",
     "protocol": "socks5",
-    "ip": "193.233.254.9",
-    "port": 1080,
+    "ip": "43.131.9.114",
+    "port": 1777,
     "country": "DE",
     "city": "Frankfurt am Main",
-    "asn": "213887",
-    "asOrganization": "WAIcore Ltd"
+    "asn": "132203",
+    "asOrganization": "6 COLLYER QUAY"
+  },
+  {
+    "proxy": "socks5://203.189.153.170:1080",
+    "protocol": "socks5",
+    "ip": "203.189.153.170",
+    "port": 1080,
+    "country": "KH",
+    "city": "Phnom Penh",
+    "asn": "23673",
+    "asOrganization": "Cogetel Ltd, Online ISP, Cambodia"
+  },
+  {
+    "proxy": "socks5://62.60.131.188:7174",
+    "protocol": "socks5",
+    "ip": "62.60.131.188",
+    "port": 7174,
+    "country": "FR",
+    "city": "Paris",
+    "asn": "16276",
+    "asOrganization": "OVH SAS"
+  },
+  {
+    "proxy": "socks5://2.135.173.62:1080",
+    "protocol": "socks5",
+    "ip": "2.135.173.62",
+    "port": 1080,
+    "country": "KZ",
+    "city": "Aktobe",
+    "asn": "9198",
+    "asOrganization": "JSC Kazakhtelecom, Aktobe Affiliate"
   }
 ]

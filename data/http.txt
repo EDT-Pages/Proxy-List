@@ -1,48 +1,91 @@
-http://103.148.192.189:3128#ID Jakarta AS139995 PT. Akashia Thuba Jaya
-http://103.148.62.1:8080#IN Mumbai AS137127 Navkar Supertech Pvt Ltd
+http://101.255.211.41:1111#ID Jakarta AS38511 PT Remala Abadi
+http://103.122.65.242:8080#ID Ubud AS138064 PT. Jinom Network Indonesia
+http://103.124.137.99:8080#ID Jakarta AS138089 Fiberbyte
+http://103.126.119.100:8080#ID Jakarta AS139972 PT. Media Tekno Nusantara
+http://103.137.218.113:83#IN Bhāgalpur AS132972 BALAJI CONNECTING ZONE
+http://103.139.98.90:8080#ID Jakarta AS138862 PT. DIGITAL NETWORK SETIAWAN
 http://103.156.75.213:8091#ID Negara AS141082 PT Trika Media Teknologi
-http://103.160.205.208:8097#ID Selong AS141595 PT Akbar Prima Media
-http://103.35.188.243:3128#US Secaucus AS209847 WorkTitans B.V.
-http://103.69.106.154:8181#ID Jakarta AS147087 PT Berkat Dunia Digital Cikande
-http://108.137.1.116:9440#T1 San Jose AS396507 Emerald Onion
-http://115.114.77.133:9090#IN Chennai AS9498 BHARTI INFOTEL LTD.
-http://115.127.176.210:2589#BD Dhaka AS45766 Triangle-Client
-http://120.92.212.16:8890#CN Tianjin AS4837 21ViaNet(China),Inc.
-http://123.200.23.121:4126#BD Dhaka AS23688 Link3-Technologies-Ltd
-http://128.199.114.189:9090#SG Singapore AS14061 DigitalOcean, LLC
-http://157.15.186.71:8080#ID Situbondo AS150208 PT. APLIKASI ENTERTAINMENT INDONESIA
-http://157.175.170.170:799#T1 San Jose AS396507 Emerald Onion
-http://157.66.51.177:1111#ID Cikampek AS152438 PT BARAYA TELEKOMUNIKASI INDONESIA
-http://160.187.174.170:8080#ID Medan AS153135 PT Netindo Persada Nusantara
-http://160.22.221.15:8080#ID Adiwerna AS153145 PT Tomihonk Network Nusantara
-http://181.78.194.249:999#EC Guayaquil AS52468 NEGOCIOS Y TELEFONIA NEDETEL S.A.
+http://103.16.118.78:8070#ID Madiun AS150224 Palapa Media Indonesia
+http://103.162.54.26:1111#ID Majalengka AS141645 PT Pratama Asia Globalindo
+http://103.166.64.11:8181#ID Probolinggo AS152391 PT Sheep Network Teknologi
+http://103.171.83.49:8080#ID Jakarta AS142373 PT Multi Network Indonesia
+http://103.172.35.40:8080#ID Jakarta AS58821 PT Anugerah Bakti Persada
+http://103.177.104.121:8080#ID Jakarta AS58369 PT Cloud Four Cee Services
+http://103.184.54.7:8080#ID Jember AS140401 PT Hancom Teknologi Indonesia
+http://103.187.113.90:9991#ID Surabaya AS149720 PT Adi Solusindo Teknologi
+http://103.190.230.122:8080#ID Jakarta AS149921 PT Mandiri Global Data
+http://103.238.232.70:8080#ID Jakarta AS151540 PT Digital Netcom Solution
+http://103.247.21.204:1111#ID Cikarang AS58485 WIFIAN ID
+http://103.3.246.71:3128#VN Hanoi AS135967 New Vision Trading Co.,Ltd
+http://103.48.71.6:83#IN Hyderabad AS136290 Country Online Services PVT LTD
+http://103.93.93.221:8181#ID Surabaya AS141140 PT Jinde Grup Indonesia
+http://104.248.151.93:9090#SG Singapore AS14061 DigitalOcean, LLC
+http://109.127.82.4:8085#IQ Zaxo AS21277 Allay Nawroz Telecom Company for Communication/Ltd.
+http://115.144.38.18:15648#KR Seoul AS4766 corporation
+http://116.105.30.12:9062#VN Da Nang AS24086 Viettel Group
+http://120.92.212.16:7890#CN Tianjin AS4837 21ViaNet(China),Inc.
+http://122.53.64.156:8081#PH Taguig AS9299 SMEMAU2025090877054_ENTERPRISE CLIENT
+http://122.54.226.216:8082#PH Quezon City AS9299 SMEPST2022072257461_ENTERPRISE CLIENT
+http://123.200.3.221:2314#BD Dhaka AS23688 Link3-Technologies-Ltd
+http://124.158.186.195:1111#ID Jakarta AS55685 PT Jala Lintas Media
+http://128.199.120.45:9090#SG Singapore AS14061 DigitalOcean, LLC
+http://137.59.49.205:22122#BD Dhaka AS24556 Bijoy Online Limited,
+http://139.28.48.132:8080#SY Al Atārib AS216472 Telecom SY
+http://140.227.61.201:3128#JP Hatsudai AS2514 Server Hosting Service  (NTTPCCommunications,Inc.)
+http://140.245.66.105:8081#KR Chuncheon AS31898 Oracle Corporation
+http://146.190.80.158:9090#SG Singapore AS14061 DigitalOcean, LLC
+http://157.15.66.97:8082#ID Kediri AS152377 PT Trimitra Aditama Koneksindo
+http://157.175.170.170:799#RO Bucharest AS214209 Internet Magnate (Pty) Ltd
+http://157.20.252.15:8833#ID Jakarta AS138089 Fiberbyte
+http://16.79.112.218:16614#US San Jose AS396507 Emerald Onion
+http://163.223.78.186:8080#ID Jombang AS153697 PT Big Network Indonesia
+http://170.9.253.20:8888#US Chicago AS31898 Oracle Corporation
+http://175.111.96.157:3128#ID Jakarta AS7713 PT Telekomunikasi Indonesia
+http://176.126.103.194:44214#RU Moscow AS199785 Cloud Hosting Solutions, Limited.
+http://177.10.118.108:8089#BR Teresina AS52917 MEGA TELE INFORMATICA
+http://177.234.217.83:999#EC Quito AS52468 NEGOCIOS Y TELEFONIA NEDETEL S.A.
+http://178.22.31.205:1082#DE Frankfurt am Main AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP
+http://180.190.243.74:5050#PH Cebu City AS132199 GBB-VISMIN-IP-POOL
+http://180.191.34.229:8081#PH Cabanatuan City AS132199 GBB-SJN-IP-POOL
+http://181.204.81.179:999#CO Manizales AS27831 Colombia Móvil
+http://181.233.50.233:8787#EC Guayaquil AS272094 OPTILINK CIA LTDA
 http://181.78.202.28:8080#EC Guayaquil AS52468 TRAJES EL GALAN
-http://185.191.236.162:3128#CH Lugano AS264617 Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez
-http://187.102.219.64:999#AR Puerto Eldorado AS270004 CRETTON LISANDRO MAXIMILIANO (MISIOTECH)
-http://187.251.224.167:8081#MX León de los Aldama AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://190.242.157.215:8080#CO Popayán AS269804 SEPCOM COMUNICACIONES SAS
+http://190.60.58.236:999#CO Barrio San Luis AS52468 UFINET COLOMBIA, S. A.
+http://190.94.232.42:999#VE Caracas AS8053 IFX Networks Venezuela C.A.
+http://193.43.145.124:8080#SY Damascus AS29256 Tarassul Internet Service Provider
 http://194.58.34.63:3128#LV Riga AS26383 Baxet Group Inc.
 http://195.87.182.10:9090#TR Van AS15924 Vodafone Net Iletisim Hizmetler AS
-http://200.59.186.177:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
-http://200.59.186.178:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
-http://200.59.191.233:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
-http://200.59.191.234:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
-http://202.154.18.11:9091#ID Mojokerto AS136121 PT Digital Media Telematika
-http://202.191.127.9:1121#BD Dhaka AS24556 Corporate Shared User
-http://202.5.57.15:11726#BD Rangpur AS45326 BBTS New Block
-http://202.58.77.170:8081#ID Blitar AS138886 PT Data Buana Nusantara
-http://209.38.51.97:3128#US Clifton AS14061 DigitalOcean, LLC
-http://211.230.49.122:3128#KR Seoul AS4766 Korea Telecom
-http://213.131.85.30:1976#EG Cairo AS24863 Link Egypt
-http://3.38.101.138:8447#T1 San Jose AS396507 Emerald Onion
-http://40.192.100.189:7976#T1 San Jose AS396507 Emerald Onion
-http://40.192.16.115:297#T1 San Jose AS396507 Emerald Onion
-http://43.198.99.209:8097#US San Jose AS396507 Emerald Onion
-http://43.208.16.199:57113#T1 Stockholm AS198093 Foreningen for digitala fri- och rattigheter
-http://43.209.8.12:4947#T1 San Jose AS396507 Emerald Onion
-http://45.144.232.249:52770#NL Dronten AS41745 Baykov Ilya Sergeevich
-http://47.86.53.59:8080#HK Hong Kong AS45102 ALIBABA CLOUD - HK
-http://59.6.25.118:3128#KR Seoul AS4766 Korea Telecom
-http://78.153.155.31:1081#US Atlanta AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP
-http://89.208.85.169:18080#RU Moscow AS47764 VK Cloud Solutions
-http://89.208.85.78:443#RU Moscow AS47764 VK Cloud Solutions
+http://196.204.138.244:1976#EG Manfalūţ AS24835 Local ISP
+http://200.48.35.125:999#PE Tarma AS6147 Universidad Nacional Mayor de San Marcos
+http://200.59.186.176:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://200.59.186.179:999#VE Mene Grande AS264778 TotalCom Venezuela C.A.
+http://202.140.62.212:8080#IN Bengaluru AS45769 D-VoiS Communications Private Limited (DCPL)
+http://202.152.44.18:8081#ID Jakarta AS4800 NEVIGATE COMMUNICATIONS (SINGAPORE) PTE LTD
+http://202.5.37.104:17382#BD Dhaka AS45326 BBTS New Block
+http://202.5.57.29:11726#BD Rangpur AS45326 BBTS New Block
+http://209.14.108.98:999#PE Lima AS6147 PE-TDP-GRS
+http://213.131.85.30:1981#EG Cairo AS24863 Link Egypt
+http://222.127.55.155:8082#PH Consolacion AS132199 GLBB_IP_POOL
+http://34.96.238.40:8080#HK Hong Kong AS396982 Google LLC
+http://38.156.233.254:999#DO Santo Domingo Este AS272882 BITNET DOMINICANA, S.R.L.
+http://38.190.100.105:999#PE Lima AS273133 CONEX TV E.I.R.L.
+http://38.224.21.1:999#CO Barrio San Luis AS3549 CADENA S.A.
+http://41.190.232.195:8080#CD Kinshasa AS37638 Issued to a client for their IP-Sec, router and server configuration.
+http://43.167.193.58:3129#JP Tokyo AS132203 ACEVILLE PTE.LTD.
+http://43.252.107.102:7777#ID Gresik AS45305 PT. Lintas Data Prima
+http://45.174.253.2:999#MX Cancún AS265539 COLUMBUS NETWORKS DE MEXICO
+http://45.177.16.129:999#PY Ciudad del Este AS267885 Cross Connect Paraguay S.A.
+http://45.198.10.3:8090#ID Jakarta AS142386 PT Jaringan Lintas Artha
+http://45.65.138.48:999#CO Tibú AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://49.254.113.102:15648#KR Seoul AS4766 Uninex
+http://49.48.65.152:8080#TH Bangkok AS45758 Triple T Broadband Public Company Limited
+http://52.188.28.218:3128#US Washington AS8075 Microsoft Limited
+http://72.10.160.90:32687#US Woodmere AS701 Verizon Business
+http://72.10.160.92:5685#PT Almada AS2860 NOS COMUNICACOES S.A.
+http://72.10.164.178:15055#DO Santo Domingo AS6400 Compañía Dominicana de Teléfonos S. A.
+http://72.10.164.178:21203#VE Caracas AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://81.177.166.169:10809#NL Meppel AS51247 Serverio technologijos MB
+http://91.107.154.88:443#DE Nürnberg AS24940 Hetzner Online GmbH
+http://93.118.140.224:8090#IR Tehran AS58224 Telecommunication Company of Tehran
+http://95.70.235.241:8080#TR Istanbul AS12735 Turknet-Broadband
